@@ -6,8 +6,8 @@
 
 *Breaking barriers between hearing and deaf communities with AI-powered real-time sign language translation*
 
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Visit_Site-red?style=for-the-badge&logo=vercel)](https://bidirectional-sign-translator.vercel.app)
-[![GitHub](https://img.shields.io/badge/📂_GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Rking18062005/bidirectional-sign-translator)
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Visit_Site-red?style=for-the-badge&logo=vercel)](https://sign-bridge-ai-an-real-time-bi-dire.vercel.app)
+[![GitHub](https://img.shields.io/badge/📂_GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Rking20051806/SignBridge-AI-an-Real-Time-Bi-Directional-Sign-Language-Translator)
 
 ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=white)
@@ -18,6 +18,17 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
+
+---
+
+## 🚀 Live Demo
+
+**Try SignBridge AI now:** [https://sign-bridge-ai-an-real-time-bi-dire.vercel.app](https://sign-bridge-ai-an-real-time-bi-dire.vercel.app)
+
+| Environment | URL |
+|-------------|-----|
+| **Production** | [sign-bridge-ai-an-real-time-bi-dire.vercel.app](https://sign-bridge-ai-an-real-time-bi-dire.vercel.app) |
+| **Preview** | [sign-bridge-ai-an-real-time-bi-directional-sign-lang-hzqqeclgj.vercel.app](https://sign-bridge-ai-an-real-time-bi-directional-sign-lang-hzqqeclgj.vercel.app) |
 
 ---
 
