@@ -29,9 +29,12 @@ landmarkingaslaphabetand/
 landmarkingaslaphabetand\ number/
 aslhandsignwithlandmark/
 a-zwithspaceimg/
-reference/
+/reference/
 training/landmark_dataset/
 training/output/
+
+# Keep public/reference (needed for app)
+!public/reference/
 
 # Model files (exceed GitHub file size limits)
 *.keras
